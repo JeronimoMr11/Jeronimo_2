@@ -1,0 +1,15 @@
+Lenguaje formal es un conjunto de cadenas finitas de simbolos
+
+Cadenas estan formadas por un alfabeto(conjunto finito no vacio) y una gramatica()
+
+
+hay tres operaciones 
+-Union
+-concatenacion
+-Clausura de kleanne
+
+cerradura de Kleanne
+
+
+
+
